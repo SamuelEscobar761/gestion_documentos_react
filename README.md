@@ -2,6 +2,9 @@
 
 Esta es una aplicación web desarrollada en React que utiliza Material UI para implementar las funcionalidades de inicio de sesión, registro, creación de carpetas y gestión de documentos.
 
+# Video
+https://drive.google.com/file/d/1OqXCp6A0Ol_P8rSZUSbJLGMOH0BgXoF7/view?usp=sharing
+
 ## Requisitos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
@@ -61,4 +64,3 @@ Sigue los pasos a continuación para instalar y configurar la aplicación:
 5. Haz clic en una carpeta para ver su contenido.
 6. Dentro de una carpeta, podrás agregar documentos, editar la carpeta a la que pertenecen, editar el nombre de los documentos y eliminarlos.
 
-¡Disfruta usando la aplicación Document Manager para organizar tus documentos de manera eficiente!
